@@ -1,2 +1,2 @@
 # yooview
-desktop wallet,goods explorer,home page explorer,etc.
+desktop wallet,goods explorer,account home page explorer,etc.
